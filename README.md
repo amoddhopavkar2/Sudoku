@@ -1,2 +1,2 @@
 # Sudoku Python
- Solve a Sudoku puzzle using Backtracking 
+ Built a GUI based application to find solution to any Sudoku puzzle using backtracking algorithm. GUI created using Pygame library. 
